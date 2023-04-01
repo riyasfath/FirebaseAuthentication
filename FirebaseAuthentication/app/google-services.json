@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81751157128",
+    "project_id": "authfirstproj",
+    "storage_bucket": "authfirstproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81751157128:android:1e7a428ac53a738cd1f23d",
+        "android_client_info": {
+          "package_name": "com.example.loginfireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81751157128-4od9n2fus6173lham8v966ldecaovoc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2PyQY4ZAawAjyTTz6EB12AQEhBDsUKis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81751157128-4od9n2fus6173lham8v966ldecaovoc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
